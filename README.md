@@ -36,36 +36,36 @@ These values are for those sorts of companies, which are the locations I general
 
   
 
--   Be experimental, fail fast, fail cheap. The best teacher is the market. It’s better to put something out there and get feedback than try and polish something to perfection against an imaginary customer.  
+-   *Be experimental, fail fast, fail cheap.* The best teacher is the market. It’s better to put something out there and get feedback than try and polish something to perfection against an imaginary customer.  
       
     
--   Focus on learning. Everyone on the team should not only be growing as an engineer, but also in their understanding of the whole business.  
+-   *Focus on learning.* Everyone on the team should not only be growing as an engineer, but also in their understanding of the whole business.  
       
     
--   Become cross-functional. We do not want to be siloed or too specialist. Being excellent at one thing (FE/React, BE, etc) is fantastic, don’t be afraid to mentor others or take on things outside your specialty. We never know what challenges we will face so we need to prepare ourselves for anything. We do that by growing our skills in as many aspects of technology as we can.  
+-   *Become cross-functional. We do not want to be siloed or too specialist.* Being excellent at one thing (FE/React, BE, etc) is fantastic, don’t be afraid to mentor others or take on things outside your specialty. We never know what challenges we will face so we need to prepare ourselves for anything. We do that by growing our skills in as many aspects of technology as we can.  
       
     
--   Good developers ship. In the end, shipping working software is the most important thing. We hold ourselves to the goal of always improving how fast we can get our code to production while maintaining acceptable code quality.
+-   *Good developers ship.* In the end, shipping working software is the most important thing. We hold ourselves to the goal of always improving how fast we can get our code to production while maintaining acceptable code quality.
     
 
   
 
 ### My Personal Values as a Tech Executive
 
--   People come first. Almost every problem I’ve seen at the organizational scale is a people issue first, a process issue second, and a tech issue third if at all. Get the right people in the right place to succeed, and the tech will usually be taken care of. Take care of your people and let them handle the rest.  
+-   *People come first.* Almost every problem I’ve seen at the organizational scale is a people issue first, a process issue second, and a tech issue third if at all. Get the right people in the right place to succeed, and the tech will usually be taken care of. Take care of your people and let them handle the rest.  
       
     
--   Build Trust, Earn Trust. Trust is the foundation of relationships. Relationships are necessary between people to be effective. People come first. Ergo, communicate honestly at all times. Mistakes are OK if owned and learned from. Say what you know, what you think, what you believe, and be willing to admit what you don’t know. Be direct in communications. No gossip, no passive aggressive BS. I hold myself to this standard and must be a role model for the team.
+-   *Build Trust, Earn Trust.* Trust is the foundation of relationships. Relationships are necessary between people to be effective. People come first. Ergo, communicate honestly at all times. Mistakes are OK if owned and learned from. Say what you know, what you think, what you believe, and be willing to admit what you don’t know. Be direct in communications. No gossip, no passive aggressive BS. I hold myself to this standard and must be a role model for the team.
     
 
   
 
--   Align incentives, Use the whole person. Organizations hire engineers to be smart, creative, problem solvers. Then they shield them from decisions which require smart and creative solutions just because those decisions don’t involve writing code. People are more than cogs, use and develop the full power of the human capability for creative thought. Align the development of the people with the development and success of the organization.
+-   *Align incentives, Use the whole person.* Organizations hire engineers to be smart, creative, problem solvers. Then they shield them from decisions which require smart and creative solutions just because those decisions don’t involve writing code. People are more than cogs, use and develop the full power of the human capability for creative thought. Align the development of the people with the development and success of the organization.
     
 
   
 
--   Do the big things right, don’t sweat small stuff. The world is ruled by Pareto's principle: 20% of what we do drives 80% of the results. Focus on getting that 20% done 120%, then work on the rest. Corollary: Anything that isn't really important probably shouldn’t be done at all. Typically, this means most meetings. Most meetings should be emails, most emails should be quick messages, and half the time even those get resolved before anyone needs to get involved. Killing waste is usually more impactful than trying to optimize.
+-   *Do the big things right, don’t sweat small stuff.* The world is ruled by Pareto's principle: 20% of what we do drives 80% of the results. Focus on getting that 20% done 120%, then work on the rest. Corollary: Anything that isn't really important probably shouldn’t be done at all. Typically, this means most meetings. Most meetings should be emails, most emails should be quick messages, and half the time even those get resolved before anyone needs to get involved. Killing waste is usually more impactful than trying to optimize.
     
 
   
