@@ -419,13 +419,7 @@ There are 4 metrics proven to be oriented with team success:
 -   Cycle Time - How long it takes to put a change into production (see “What is Done?”) once code is completed for a feature (completely defined as submitted for manual QA). Our target is < 4hrs. Meaning that once code is ready for QA, it will be evaluated by a tester, tested for load and other functional and non-functional requirements, and deployed into production in half a day. Ideal is under 2 hours.  
       
     
--   Lead Time - how long it takes to go from business idea to delivered software. Lead time can itself be divided into two:
-    
-
--   Requirements definition time
-    
--   Requirements -> Feature time.
-    
+-   Lead Time - how long it takes to go from business idea to delivered software. Lead time can itself be divided into two:  Requirements definition time and  Requirements -> Feature time.
 
 The development team is primarily responsible for the second aspect of lead time. Once we get acceptable requirements, it’s up to us to find the fastest way to deliver working software. There is no target, we just want to continually improve this number.  
   
