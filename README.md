@@ -217,6 +217,8 @@ An enormous amount has been written about clean code. It will not be rehashed in
 -   Encapsulation of complexity (SOLID, FP principles, etc etc)
     
 -   Code is for people just as much as it is for computers.
+
+-   Program to interfaces not implementations.
     
 
   
